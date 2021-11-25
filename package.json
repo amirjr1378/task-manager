@@ -11,11 +11,15 @@
     "@tailwindcss/forms": "^0.3.4",
     "next": "12.0.4",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "use-local-storage": "^2.2.5",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "@types/node": "16.11.10",
     "@types/react": "17.0.37",
+    "@types/uuid": "^8.3.3",
     "autoprefixer": "^10.4.0",
     "eslint": "7",
     "eslint-config-next": "12.0.4",
